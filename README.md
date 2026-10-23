@@ -102,4 +102,3 @@ When a denominator is missing, the dashboard shows the value printed by the sour
   (60,290 vs 62,232); Avanigadda AC 2019 total votes; Gudivada AC 2014 winner share. The more internally consistent value was used.
 * Segment-wise Lok Sabha vote counts (Assembly segment breakdown of the Parliament election) were not collected.
 * Aggregate results say nothing about individual voter behaviour.
-* The JS bundle is about 640 kB (190 kB gzipped); code-splitting by route is a possible improvement.
