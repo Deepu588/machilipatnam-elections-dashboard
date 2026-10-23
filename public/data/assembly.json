@@ -1,0 +1,180 @@
+{
+  "sources": [
+    { "label": "Wikipedia: Gannavaram (Krishna) Assembly constituency", "url": "https://en.wikipedia.org/wiki/Gannavaram,_Krishna_Assembly_constituency" },
+    { "label": "Wikipedia: Gudivada Assembly constituency", "url": "https://en.wikipedia.org/wiki/Gudivada_Assembly_constituency" },
+    { "label": "Wikipedia: Pedana Assembly constituency", "url": "https://en.wikipedia.org/wiki/Pedana_Assembly_constituency" },
+    { "label": "Wikipedia: Machilipatnam Assembly constituency", "url": "https://en.wikipedia.org/wiki/Machilipatnam_Assembly_constituency" },
+    { "label": "Wikipedia: Avanigadda Assembly constituency", "url": "https://en.wikipedia.org/wiki/Avanigadda_Assembly_constituency" },
+    { "label": "Wikipedia: Pamarru Assembly constituency", "url": "https://en.wikipedia.org/wiki/Pamarru_Assembly_constituency" },
+    { "label": "Wikipedia: Penamaluru Assembly constituency", "url": "https://en.wikipedia.org/wiki/Penamaluru_Assembly_constituency" },
+    { "label": "ECI 2024 AC results: Pedana", "url": "https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0174.htm" },
+    { "label": "ECI 2024 AC results: Gannavaram", "url": "https://results.eci.gov.in/AcResultGenJune2024/ConstituencywiseS0171.htm" },
+    { "label": "CEO Andhra Pradesh: Electors Summary 25.03.2019", "url": "http://ceoandhra.nic.in/ceoap_new/ceo/documents/Electors_Summary%20_25.03.2019.pdf" }
+  ],
+  "constituencies": [
+    {
+      "id": 71, "name": "Gannavaram", "reservation": "GEN", "electors2019": 258031,
+      "mandals": ["Bapulapadu", "Gannavaram", "Unguturu", "Vijayawada Rural (part)"],
+      "elections": [
+        { "year": 2009, "totalVotes": 174847, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Dasari Venkata Bala Vardhana Rao", "party": "TDP", "votes": 82218, "reportedShare": 47.02 },
+          { "name": "Muddaraboina Venkateswara Rao", "party": "INC", "votes": 66923, "reportedShare": 38.28 },
+          { "name": "Bathina Rama Mohana Rao", "party": "PRP", "votes": 19806, "reportedShare": 11.33 } ] },
+        { "year": 2014, "totalVotes": null, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Vallabhaneni Vamsi Mohan", "party": "TDP", "votes": 99163, "reportedShare": 49.74 },
+          { "name": "Dutta Ramachandrarao", "party": "YSRCP", "votes": 89615, "reportedShare": 44.95 } ],
+          "note": "Total votes not listed in the source; shares are as reported." },
+        { "year": 2019, "totalVotes": 220718, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Vallabhaneni Vamsi Mohan", "party": "TDP", "votes": 103881, "reportedShare": 47.07 },
+          { "name": "Yarlagadda Venkata Rao", "party": "YSRCP", "votes": 103043, "reportedShare": 46.69 },
+          { "name": "Afsar Syed", "party": "CPI", "votes": 6675, "reportedShare": 3.02 } ] },
+        { "year": 2024, "totalVotes": 239525, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Yarlagadda Venkata Rao", "party": "TDP", "votes": 135552, "reportedShare": 56.59 },
+          { "name": "Vallabhaneni Vamsi Mohan", "party": "YSRCP", "votes": 97924, "reportedShare": 40.88 },
+          { "name": "Kallam Venkateswara Rao", "party": "CPI(M)", "votes": 1219, "reportedShare": 0.51 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 1731, "reportedShare": 0.72 } ],
+          "note": "Official ECI figures." }
+      ]
+    },
+    {
+      "id": 72, "name": "Gudivada", "reservation": "GEN", "electors2019": 208305,
+      "mandals": ["Gudivada", "Gudlavalleru", "Nandivada"],
+      "elections": [
+        { "year": 2009, "totalVotes": 147866, "reportedTurnoutPct": 81.89, "candidates": [
+          { "name": "Kodali Sri Venkateswara Rao (Nani)", "party": "TDP", "votes": 68034, "reportedShare": 46.00 },
+          { "name": "Pinnamaneni Venkateswara Rao", "party": "INC", "votes": 50404, "reportedShare": 34.10 },
+          { "name": "Raavi Venkateswara Rao", "party": "PRP", "votes": 28328, "reportedShare": 19.85 } ] },
+        { "year": 2014, "totalVotes": 158428, "reportedTurnoutPct": 80.29, "candidates": [
+          { "name": "Kodali Sri Venkateswara Rao (Nani)", "party": "YSRCP", "votes": 81298, "reportedShare": null },
+          { "name": "Raavi Venkateswara Rao", "party": "TDP", "votes": 69761, "reportedShare": 44.03 } ],
+          "note": "The source's reported share for the winner (55.32%) is inconsistent with its vote count; it is omitted and the share is computed." },
+        { "year": 2019, "totalVotes": 167902, "reportedTurnoutPct": 80.6, "candidates": [
+          { "name": "Kodali Sri Venkateswara Rao (Nani)", "party": "YSRCP", "votes": 89833, "reportedShare": 53.50 },
+          { "name": "Devineni Avinash", "party": "TDP", "votes": 70354, "reportedShare": 41.90 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 3285, "reportedShare": 1.96 } ] },
+        { "year": 2024, "totalVotes": 171604, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Venigandla Ramu", "party": "TDP", "votes": 109980, "reportedShare": 64.08 },
+          { "name": "Kodali Sri Venkateswara Rao (Nani)", "party": "YSRCP", "votes": 56940, "reportedShare": 33.18 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 999, "reportedShare": 0.58 } ] }
+      ]
+    },
+    {
+      "id": 74, "name": "Pedana", "reservation": "GEN", "electors2019": 165987,
+      "mandals": ["Gudur", "Pedana", "Bantumilli", "Kruthivennu"],
+      "elections": [
+        { "year": 2009, "totalVotes": 126484, "reportedTurnoutPct": 85.98, "candidates": [
+          { "name": "Jogi Ramesh", "party": "INC", "votes": 44480, "reportedShare": 35.17 },
+          { "name": "Kagitha Venkata Rao", "party": "TDP", "votes": 43045, "reportedShare": 34.22 },
+          { "name": "Myla Veeraju", "party": "PRP", "votes": 29172, "reportedShare": 23.06 } ] },
+        { "year": 2014, "totalVotes": 135442, "reportedTurnoutPct": 88.50, "candidates": [
+          { "name": "Kagitha Venkata Rao", "party": "TDP", "votes": 71779, "reportedShare": 53.00 },
+          { "name": "Buragadda Vedavyas", "party": "YSRCP", "votes": 58085, "reportedShare": 42.89 } ] },
+        { "year": 2019, "totalVotes": 145848, "reportedTurnoutPct": 87.76, "candidates": [
+          { "name": "Jogi Ramesh", "party": "YSRCP", "votes": 61920, "reportedShare": 42.46 },
+          { "name": "Kagitha Krishnaprasad", "party": "TDP", "votes": 54081, "reportedShare": 37.08 },
+          { "name": "Ankem Lakshmi Srinivas", "party": "JSP", "votes": 25733, "reportedShare": 17.64 } ] },
+        { "year": 2024, "totalVotes": 149961, "reportedTurnoutPct": 90.34, "candidates": [
+          { "name": "Kagitha Krishna Prasad", "party": "TDP", "votes": 91394, "reportedShare": 60.95 },
+          { "name": "Uppala Ramesh (Ramu)", "party": "YSRCP", "votes": 53271, "reportedShare": 35.52 },
+          { "name": "Sonti Nagaraju", "party": "INC", "votes": 1354, "reportedShare": 0.90 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 1349, "reportedShare": 0.90 } ],
+          "note": "Official ECI figures." }
+      ]
+    },
+    {
+      "id": 75, "name": "Machilipatnam", "reservation": "GEN", "electors2019": 184506,
+      "mandals": ["Machilipatnam"],
+      "elections": [
+        { "year": 2009, "totalVotes": null, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Perni Venkataramaiah (Nani)", "party": "INC", "votes": 48580, "reportedShare": 37.87 },
+          { "name": "Kollu Ravindra", "party": "TDP", "votes": 37181, "reportedShare": 28.98 },
+          { "name": "Vedavyas Buragadda", "party": "PRP", "votes": 34124, "reportedShare": 27.38 } ],
+          "note": "Total votes not listed in the source; shares are as reported." },
+        { "year": 2014, "totalVotes": null, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Kollu Ravindra", "party": "TDP", "votes": 75209, "reportedShare": 53.43 },
+          { "name": "Perni Venkataramaiah (Nani)", "party": "YSRCP", "votes": 59403, "reportedShare": 42.2 } ],
+          "note": "Total votes not listed in the source; shares are as reported." },
+        { "year": 2019, "totalVotes": null, "reportedTurnoutPct": 79.77, "candidates": [
+          { "name": "Perni Venkataramaiah (Nani)", "party": "YSRCP", "votes": 66141, "reportedShare": 44.36 },
+          { "name": "Kollu Ravindra", "party": "TDP", "votes": 60290, "reportedShare": 40.44 },
+          { "name": "Bandi Rama Krishna", "party": "JSP", "votes": 18807, "reportedShare": 12.61 } ],
+          "note": "Sources differ for the runner-up (Wikipedia 62,232; Deccan Herald/OneIndia 60,290 with a 5,851 margin). 60,290 is used because it matches the reported 40.44% share." },
+        { "year": 2024, "totalVotes": 164839, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Kollu Ravindra", "party": "TDP", "votes": 105044, "reportedShare": 63.73 },
+          { "name": "Perni Vaka Sai Krishna Murthy (Kittu)", "party": "YSRCP", "votes": 54802, "reportedShare": 33.25 },
+          { "name": "Abdul Mateen", "party": "INC", "votes": 1443, "reportedShare": 0.88 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 1027, "reportedShare": 0.62 } ] }
+      ]
+    },
+    {
+      "id": 76, "name": "Avanigadda", "reservation": "GEN", "electors2019": 207240,
+      "mandals": ["Avanigadda", "Nagayalanka", "Koduru", "Challapalli", "Mopidevi", "Ghantasala"],
+      "elections": [
+        { "year": 2009, "totalVotes": 160533, "reportedTurnoutPct": 86.74, "candidates": [
+          { "name": "Ambati Brahmanaiah", "party": "TDP", "votes": 55316, "reportedShare": 34.46 },
+          { "name": "Mandali Buddha Prasad", "party": "INC", "votes": 54899, "reportedShare": 34.20 },
+          { "name": "Simhadri Ramesh Babu", "party": "PRP", "votes": 37660, "reportedShare": 23.46 } ] },
+        { "year": 2014, "totalVotes": 168232, "reportedTurnoutPct": 85.70, "candidates": [
+          { "name": "Mandali Buddha Prasad", "party": "TDP", "votes": 80995, "reportedShare": 48.14 },
+          { "name": "Simhadri Ramesh Babu", "party": "YSRCP", "votes": 75037, "reportedShare": 44.60 } ] },
+        { "year": 2019, "totalVotes": null, "reportedTurnoutPct": 88.11, "candidates": [
+          { "name": "Simhadri Ramesh Babu", "party": "YSRCP", "votes": 78447, "reportedShare": 42.54 },
+          { "name": "Mandali Buddha Prasad", "party": "TDP", "votes": 57722, "reportedShare": 31.30 },
+          { "name": "Muttamsetty Krishna Rao", "party": "JSP", "votes": 28556, "reportedShare": 15.49 } ],
+          "note": "The source's total (164,765) conflicts with its reported shares, so the total is left blank and shares are as reported." },
+        { "year": 2024, "totalVotes": 186445, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Mandali Buddha Prasad", "party": "JSP", "votes": 113460, "reportedShare": 60.85 },
+          { "name": "Simhadri Ramesh Babu", "party": "YSRCP", "votes": 67026, "reportedShare": 35.95 },
+          { "name": "Andee Srirama Murthy", "party": "INC", "votes": 1068, "reportedShare": 0.57 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 1952, "reportedShare": 1.05 } ] }
+      ]
+    },
+    {
+      "id": 77, "name": "Pamarru", "reservation": "SC", "electors2019": 180834,
+      "mandals": ["Pamarru", "Thotlavalluru", "Pamidimukkala", "Movva", "Pedaparupudi"],
+      "elections": [
+        { "year": 2009, "totalVotes": 143809, "reportedTurnoutPct": 85.45, "candidates": [
+          { "name": "Dovari Yesu Das", "party": "INC", "votes": 60048, "reportedShare": 41.76 },
+          { "name": "Uppuleti Kalpana", "party": "TDP", "votes": 53108, "reportedShare": 36.93 },
+          { "name": "Movva Mohana Rao", "party": "PRP", "votes": 23438, "reportedShare": 16.30 } ] },
+        { "year": 2014, "totalVotes": 151759, "reportedTurnoutPct": 88.28, "candidates": [
+          { "name": "Uppuleti Kalpana", "party": "YSRCP", "votes": 69546, "reportedShare": 45.83 },
+          { "name": "Varla Ramaiah", "party": "TDP", "votes": 68477, "reportedShare": 45.12 } ] },
+        { "year": 2019, "totalVotes": null, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Kaile Anil Kumar", "party": "YSRCP", "votes": 88547, "reportedShare": 57.4 },
+          { "name": "Uppuleti Kalpana", "party": "TDP", "votes": 57674, "reportedShare": 37.4 },
+          { "name": "Medepally Jhansi Rani", "party": "JSP", "votes": 5574, "reportedShare": null } ],
+          "note": "Total votes not listed in the source; shares are as reported." },
+        { "year": 2024, "totalVotes": 164869, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Varla Kumar Raja", "party": "TDP", "votes": 94189, "reportedShare": 57.13 },
+          { "name": "Kaile Anil Kumar", "party": "YSRCP", "votes": 64499, "reportedShare": 39.12 },
+          { "name": "D. Y. Das", "party": "INC", "votes": 2195, "reportedShare": 1.35 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 1733, "reportedShare": 1.05 } ] }
+      ]
+    },
+    {
+      "id": 78, "name": "Penamaluru", "reservation": "GEN", "electors2019": 267751,
+      "mandals": ["Kankipadu", "Vuyyuru", "Penamaluru"],
+      "elections": [
+        { "year": 2009, "totalVotes": 163851, "reportedTurnoutPct": 80.19, "candidates": [
+          { "name": "Kolusu Parthasarathy", "party": "INC", "votes": 61346, "reportedShare": 37.44 },
+          { "name": "Chalasani Venkateswara Rao", "party": "TDP", "votes": 61169, "reportedShare": 37.33 },
+          { "name": "Dhanekula Murali Mohana Rao", "party": "PRP", "votes": 31930, "reportedShare": 19.49 } ] },
+        { "year": 2014, "totalVotes": 186128, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Bode Prasad", "party": "TDP", "votes": 102330, "reportedShare": 54.97 },
+          { "name": "V R Vidyasagar Kukkala", "party": "YSRCP", "votes": 70882, "reportedShare": 38.08 },
+          { "name": "Nerella Sobhan Babu", "party": "INC", "votes": 3336, "reportedShare": 1.79 } ],
+          "note": "Source turnout figure repeats the 2009 value, so it is not used." },
+        { "year": 2019, "totalVotes": 213929, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Kolusu Parthasarathy", "party": "YSRCP", "votes": 101485, "reportedShare": 47.43 },
+          { "name": "Bode Prasad", "party": "TDP", "votes": 90168, "reportedShare": 42.14 },
+          { "name": "L. Karunakar Das", "party": "BSP", "votes": 15388, "reportedShare": 7.19 } ] },
+        { "year": 2024, "totalVotes": 236539, "reportedTurnoutPct": null, "candidates": [
+          { "name": "Bode Prasad", "party": "TDP", "votes": 144912, "reportedShare": 61.26 },
+          { "name": "Jogi Ramesh", "party": "YSRCP", "votes": 84997, "reportedShare": 35.93 },
+          { "name": "Elisala Subramanyam", "party": "INC", "votes": 2596, "reportedShare": 1.10 },
+          { "name": "None of the Above", "party": "NOTA", "votes": 1510, "reportedShare": 0.64 } ] }
+      ]
+    }
+  ]
+}

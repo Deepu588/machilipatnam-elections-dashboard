@@ -1,0 +1,51 @@
+{
+  "sources": [
+    { "label": "Wikipedia: Machilipatnam Lok Sabha constituency (tables cite ECI results)", "url": "https://en.wikipedia.org/wiki/Machilipatnam_Lok_Sabha_constituency" },
+    { "label": "ECI: General Election 2019 results", "url": "https://old.eci.gov.in/files/category/1551-general-election-2019-including-vellore-pc/" },
+    { "label": "ECI: General Election 2014 constituency-wise detailed result", "url": "https://www.eci.gov.in/files/file/2857-constituency-wise-detailed-result/" },
+    { "label": "India TV / Deccan Herald (cross-check for 2019 and 2014)", "url": "https://www.deccanherald.com/elections/india/lok-sabha-elections-2024-machilipatnam-constituency-result-3030621" }
+  ],
+  "elections": [
+    {
+      "year": 2009, "totalVotes": 1045905, "electors": null, "reportedTurnoutPct": 83.60,
+      "candidates": [
+        { "name": "Konakalla Narayana Rao", "party": "TDP", "votes": 409936, "reportedShare": 39.19 },
+        { "name": "Badiga Ramakrishna", "party": "INC", "votes": 397480, "reportedShare": 38.00 },
+        { "name": "C. Ramachandraiah", "party": "PRP", "votes": 186921, "reportedShare": 17.87 }
+      ],
+      "note": "Only the three candidates listed in the source are included."
+    },
+    {
+      "year": 2014, "totalVotes": 1141065, "electors": null, "reportedTurnoutPct": 83.33,
+      "candidates": [
+        { "name": "Konakalla Narayana Rao", "party": "TDP", "votes": 587280, "reportedShare": 51.47 },
+        { "name": "Kolusu Parthasarathy", "party": "YSRCP", "votes": 506223, "reportedShare": 44.36 },
+        { "name": "Sistla Ramesh", "party": "INC", "votes": 14111, "reportedShare": 1.24 },
+        { "name": "None of the Above", "party": "NOTA", "votes": 8171, "reportedShare": 0.72 },
+        { "name": "Kammili Srinivas", "party": "JSP", "votes": 7692, "reportedShare": 0.67 }
+      ],
+      "note": "Top five entries listed in the source."
+    },
+    {
+      "year": 2019, "totalVotes": 1245552, "electors": 1473347, "reportedTurnoutPct": 84.54,
+      "candidates": [
+        { "name": "Vallabhaneni Balashowry", "party": "YSRCP", "votes": 571436, "reportedShare": 46.02 },
+        { "name": "Konakalla Narayana Rao", "party": "TDP", "votes": 511295, "reportedShare": 41.18 },
+        { "name": "Bandreddy Ramu", "party": "JSP", "votes": 113292, "reportedShare": 9.12 },
+        { "name": "None of the Above", "party": "NOTA", "votes": 14077, "reportedShare": 1.13 },
+        { "name": "Gollu Krishna", "party": "INC", "votes": 12284, "reportedShare": 0.99 }
+      ],
+      "note": "Sources differ slightly: India TV lists 572,850 (YSRCP) and 512,612 (TDP) with a 60,238 margin; Wikipedia (used here) lists 571,436 and 511,295 with a 60,141 margin."
+    },
+    {
+      "year": 2024, "totalVotes": 1315489, "electors": null, "reportedTurnoutPct": 85.42,
+      "candidates": [
+        { "name": "Vallabhaneni Balashowry", "party": "JSP", "votes": 724439, "reportedShare": 55.22 },
+        { "name": "Simhadri Chandra Sekhar Rao", "party": "YSRCP", "votes": 501260, "reportedShare": 38.21 },
+        { "name": "Gollu Krishna", "party": "INC", "votes": 31825, "reportedShare": 2.43 },
+        { "name": "None of the Above", "party": "NOTA", "votes": 12126, "reportedShare": 0.92 }
+      ],
+      "note": "Source reports a 17.01% margin; the dashboard computes 16.97% because it divides by total votes counted (1,315,489)."
+    }
+  ]
+}

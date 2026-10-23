@@ -1,0 +1,23 @@
+/* Design tokens + Bootstrap overrides. Palette: Bay-of-Bengal teal, Kalamkari madder, indigo ink. */
+:root {
+  --ink: #1d2b4f;
+  --ink-soft: #46506b;
+  --madder: #a8402f;
+  --turmeric: #d99a1c;
+  --sea: #2b7a84;
+  --page: #eef1f6;
+  --panel: #ffffff;
+  --line: #d9deea;
+  --bs-body-bg: var(--page);
+  --bs-body-color: #1b2233;
+  --bs-link-color: #1f5e9e;
+  --bs-border-radius: 6px;
+  --font-heading: Georgia, 'Times New Roman', serif;
+}
+body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; background: var(--page); }
+h1, h2, h3, .navbar-brand { font-family: var(--font-heading); }
+:focus-visible { outline: 3px solid var(--turmeric); outline-offset: 2px; }
+.form-check-input:checked { background-color: var(--sea); border-color: var(--sea); }
+.page-link { color: var(--ink); }
+.pagination .page-item.disabled .page-link { color: #8a93a8; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }

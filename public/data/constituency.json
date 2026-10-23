@@ -1,0 +1,29 @@
+{
+  "name": "Machilipatnam",
+  "number": 11,
+  "state": "Andhra Pradesh",
+  "districts": "Krishna and NTR (parts)",
+  "category": "General (no reservation)",
+  "coverage": "Seven Assembly segments in Krishna and NTR districts: Gannavaram, Gudivada, Pedana, Machilipatnam, Avanigadda, Pamarru (SC) and Penamaluru, as per the Delimitation Order 2008.",
+  "currentMp": { "name": "Vallabhaneni Balashowry", "party": "JSP", "since": 2024 },
+  "electors": {
+    "value": 1473347,
+    "referenceYear": 2019,
+    "source": "Registered electors for the 2019 Lok Sabha election (ECI result, as listed on Wikipedia)",
+    "note": "Electors for 2009, 2014 and 2024 were not found in the sources consulted."
+  },
+  "demographics": {
+    "population": { "label": "Total population", "unit": "persons", "value": null, "referenceYear": 2011, "source": "Census of India 2011", "note": "Census tables are published by district/sub-district, not by Parliamentary Constituency. Not compiled here." },
+    "sexRatio": { "label": "Sex ratio", "unit": "females per 1000 males", "value": null, "referenceYear": 2011, "source": "Census of India 2011", "note": "Not compiled for this constituency." },
+    "ruralPct": { "label": "Rural population", "unit": "%", "value": null, "referenceYear": 2011, "source": "Census of India 2011", "note": "Not compiled for this constituency." },
+    "urbanPct": { "label": "Urban population", "unit": "%", "value": null, "referenceYear": 2011, "source": "Census of India 2011", "note": "Not compiled for this constituency." },
+    "literacyPct": { "label": "Literacy rate", "unit": "%", "value": null, "referenceYear": 2011, "source": "Census of India 2011", "note": "Not compiled for this constituency." },
+    "scPct": { "label": "SC population", "unit": "%", "value": null, "referenceYear": 2011, "source": "Census of India 2011", "note": "Not compiled for this constituency." },
+    "stPct": { "label": "ST population", "unit": "%", "value": null, "referenceYear": 2011, "source": "Census of India 2011", "note": "Not compiled for this constituency." }
+  },
+  "sources": [
+    { "label": "Wikipedia: Machilipatnam Lok Sabha constituency (cites ECI)", "url": "https://en.wikipedia.org/wiki/Machilipatnam_Lok_Sabha_constituency" },
+    { "label": "ECI: Delimitation of Parliamentary and Assembly Constituencies Order 2008", "url": "https://old.eci.gov.in/files/file/3931-delimitation-of-parliamentary-assembly-constituencies-order-2008/" },
+    { "label": "Census of India 2011", "url": "https://censusindia.gov.in/" }
+  ]
+}
